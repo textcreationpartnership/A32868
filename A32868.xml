@@ -1,0 +1,503 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A choice collection of books in divinity, history, philosophy, merchants-accompts, mathematicks, &amp;c. To be sold by auction on Wednesday next, the 14th. of this instant March, 1693/4. at Roll's auction-house in Petty-Canon-Alley in S. Paul's Church-yard. This catalogue consists of near one hundred folio's, with quarto's and octavo's proportionable. The gentlemen are desired to appear at the auction-house exactly at four of the clock, it being intended to dispatch the sale in one night. By Edward Millington.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32868</idno>
+            <idno type="STC">Wing C3910</idno>
+            <idno type="STC">ESTC R213176</idno>
+            <idno type="EEBO-CITATION">99825667</idno>
+            <idno type="PROQUEST">99825667</idno>
+            <idno type="VID">30053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30053)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1756:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A choice collection of books in divinity, history, philosophy, merchants-accompts, mathematicks, &amp;c. To be sold by auction on Wednesday next, the 14th. of this instant March, 1693/4. at Roll's auction-house in Petty-Canon-Alley in S. Paul's Church-yard. This catalogue consists of near one hundred folio's, with quarto's and octavo's proportionable. The gentlemen are desired to appear at the auction-house exactly at four of the clock, it being intended to dispatch the sale in one night. By Edward Millington.</title>
+                  <author>Millington, Edward, d. 1703.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30053:1"/>
+            <pb facs="tcp:30053:1" rendition="simple:additions"/>
+            <p>A Choice COLLECTION OF BOOKS IN <hi>Divinity, Hiſtory, Philoſophy, Merchants-Accompts, Mathematicks,</hi> &amp;c. To be ſold by <hi>Auction</hi> on <hi>Wedneſday</hi> next, the 14th. of this inſtant <hi>March,</hi> 1693/4. at <hi>Rolls</hi>'s <hi>Auction-Houſe</hi> in <hi>Petty-Canon-Alley</hi> in S. <hi>Paul</hi>'s Church-Yard.</p>
+            <p>This CATALOGUE conſiſts of near One Hundred <hi>Folio</hi>'s, with <hi>Quarto</hi>'s and <hi>Octavo</hi>'s proportionable.</p>
+            <p>
+               <hi>The Gentlemen are deſired to appear at the</hi> Auction-Houſe <hi>exactly at Four of the Clock, it being intended to diſpatch the Sale in one Night.</hi>
+            </p>
+            <p>By <hi>Edward Millington.</hi>
+            </p>
+            <p>CATALOGUES are Diſtributed by Mr. <hi>Whitwood</hi> in <hi>Little-Britain,</hi> Mr. <hi>Feltham</hi> in <hi>Weſtminſter-Hall,</hi> Mr. <hi>Hargrave</hi> in <hi>Holborn,</hi> Mr. <hi>Jay</hi> under the <hi>Royal-Exchange,</hi> and at the <hi>Auction-Houſe above<g ref="char:EOLhyphen"/>ſaid.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="collection">
+            <pb n="2" facs="tcp:30053:2"/>
+            <head>
+               <hi>BOOKS</hi> in <hi>Folio,</hi> Engliſh, Latin, &amp;c.</head>
+            <list>
+               <item>1 <hi>CAmbden</hi>'s hiſtory of Q. <hi>Eliſabeth,</hi> by way of Annals 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0</item>
+               <item>2 The Works of Sir <hi>Tho. Browne,</hi> Dr. of Phyſick 168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>3 Biſh. <hi>Burnet</hi>'s Hiſtory of <hi>Scotland</hi> in Church and State 1677</item>
+               <item>4 Dr. <hi>Mayer,</hi> on the hiſtor. Part of the Old Teſtament 1647</item>
+               <item>5 Works of B. <hi>Reynolds</hi> 1658</item>
+               <item>6 B. <hi>Richardſon,</hi> Annotations on the Old Teſtament 1655</item>
+               <item>7 Archbiſhop <hi>Laud</hi>'s Conference with Mr. <hi>Fiſher</hi> the Jeſuit 1686</item>
+               <item>8 <hi>Keaches</hi> Key to open Scripture Metaphors 1682</item>
+               <item>9 Map of Commerce or Merchants Accompts, by <hi>L. Roberts</hi> 1677</item>
+               <item>10 Dr. <hi>Godolphins</hi> holy Arbor, or Body of Divinity 1651</item>
+               <item>11 Sir <hi>J. Chardins</hi> Travels into <hi>Perſia</hi> and the <hi>Eaſt-Indies,</hi> with Maps 1686</item>
+               <item>12 The future State of <hi>England,</hi> containing Politic Remarks 1688</item>
+               <item>13 Dr. <hi>Crook,</hi> Deſcription of the Body of Man, with Figures. Laſt Edit.</item>
+               <item>14 L. <hi>Herberts</hi> Hiſtory of K. <hi>Henry</hi> VIII. 1683</item>
+               <item>15 Mr. <hi>Smith</hi> of <hi>Eſſex,</hi> Expoſition on the Creed 1632</item>
+               <item>16 <hi>Elton,</hi> Expoſition on the <hi>Coloſſians,</hi> third Edition 1637</item>
+               <item>17 Sir <hi>R. Fanſhaws</hi> hiſtory of <hi>Portugal.</hi> 1655</item>
+               <item>18 The Works of Mr. <hi>Wil. Perkins,</hi> in 3 Vol. 1626</item>
+               <item>19 Hiſtory of the Council of <hi>Trent.</hi> Laſt Edit.</item>
+               <item>20 <hi>Taverniers</hi> Travels, in 1 Vol. compl. 1678</item>
+               <item>21 <hi>Dallington</hi>'s Aphoriſms, Civil and Military</item>
+               <item>22 <hi>Evelyn,</hi> of Foreſt-Trees. Large Paper 1679</item>
+               <item>23 <hi>Greenham</hi>'s Works. Fourth Edit.</item>
+               <item>24 Chirurgical Works of <hi>Ambr. Parey,</hi> with Sculpt. Laſt Edit.</item>
+               <item>25 Hiſtory of the Holy War and State, by Dr. <hi>Fuller.</hi> In 2 Vol. 1639</item>
+               <item>26 Dr. <hi>Willets</hi> ſix-fold Commentary on <hi>Geneſis</hi> and <hi>Exodus.</hi> Fourth Edit.</item>
+               <item>27 Dr. <hi>Nalſons</hi> Hiſtorical Collections. Firſt Vol. 1682</item>
+               <item>28 St. <hi>Amour</hi> Hiſtorical Account of the Romiſh Court and Policies 1670</item>
+               <item>29 <hi>Barlow</hi>'s <hi>Eſop</hi>'s Fables, Engl. and French, with Sculptures 1687</item>
+               <item>30 Works of Dr. <hi>J. Boys,</hi> upon the Feaſts and Faſts of the Church</item>
+               <item>31 An Expoſition on the 12 <hi>minor</hi> Prophets, by Mr. <hi>Trap</hi> 1654</item>
+               <item>32 L. <hi>Mornay,</hi> hiſt. of the Papacy.—Wants the Title.</item>
+               <item>33 <hi>Amb. Calepim Dictionarium undecim Linguarum Baſ.</hi>
+               </item>
+               <item>34 <hi>Mat. Paris, Hiſtoria major à Gail. Watts Lond.</hi> 1684</item>
+               <item>35 <hi>Epiſcop. Davenant Expoſit. in Epiſt. ad Coloſſ. Cant.</hi> 1630</item>
+               <item>36 <hi>J. Grammatici in Ariſtot. Graecae Aldus</hi>
+               </item>
+               <item>37 <hi>Niphii in Arriſt. Rhetor, &amp; de Coelo &amp; Mundo Ven.</hi> 1567</item>
+               <item>38 <hi>Niphii &amp; Grammatici in Arriſtot. Phyſ.</hi> ibid.</item>
+               <item>39 — <hi>De Intell. Simplicius. De Coelo &amp; Anima, &amp;c.</hi> ibid.</item>
+               <item>40 <hi>J. Minſheus</hi> Dictionary in 11 Languages. Laſt Edit.</item>
+               <item>41 <hi>D. Stellae in Evangel. S. Lucam</hi>
+               </item>
+               <item>42 <hi>Thucidides hiſt. Gr. Lat. Baſ.</hi>
+               </item>
+               <item>43 <hi>Leigh, Critica Sacra,</hi> on the Old and New Teſtament 1650</item>
+               <item>44 <hi>Euclidis Elementorum Lib.</hi> 13. <hi>à Fred. Commandino, Gr. Lat. Lond.</hi>
+               </item>
+               <item>45 <hi>Pharmacopeia Lond. Colleg. Regalis Ult. Edit.</hi>
+               </item>
+               <item>46 <hi>Hiſtoria Scotiae Naturalis, cum mult. Fig. à R. Sibbaldo</hi> 1684</item>
+               <item>47 <hi>Deſ. Eraſmi, &amp;c. Adagia</hi> 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9</item>
+               <item>48 <hi>P. R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vanelli Bibliotheca Sacra. In 2 Vol. Gen.</hi> 1650</item>
+               <item>49 <hi>P. Martyris Loci cummunes</hi> ibid. 1624</item>
+               <item>50 <hi>J. Piſcatoris in ons. lib. Nov. Teſtament.</hi> ib. 1638</item>
+               <pb n="3" facs="tcp:30053:2"/>
+               <item>51 <hi>R. Body in Epiſt. ad Epheſias Lond.</hi> 1652</item>
+               <item>52 <hi>N. Lloyd Dictionarium Hiſtor. Poeticum</hi> ibid. 1686</item>
+               <item>53 <hi>Tho. Aquinatis Summa Theologica Par.</hi> 1639</item>
+               <item>54 <hi>S. Epiphanii Opera, Gr. Lat. Nitidiſ. Charact. Baſ.</hi>
+               </item>
+               <item>55 <hi>J. Scapulae Lexicon Graeco-Latinum</hi> ibid.</item>
+               <item>56 <hi>H. Molleri Comment. in Pſalmos</hi> ibid.</item>
+               <item>57 <hi>J. Calvini inſtituti Chriſtianae Relig.</hi>
+               </item>
+               <item>58 <hi>Ariſtophanis Comoediae cum Comment. Antiquis Gr. Baſ.</hi>
+               </item>
+               <item>59 Works of <hi>W. Cooper,</hi> B. of <hi>Galloway.</hi> Laſt Edit.</item>
+               <item>60 Antiquities of Antient <hi>Britain,</hi> with Sculpt. by <hi>A. Samms</hi> 1676</item>
+               <item>61 <hi>Cave</hi>'s Lives of the Fathers. Second Vol. 1683</item>
+               <item>62 L. <hi>Monks</hi> Obſervations Military and Political 1671</item>
+               <item>63 <hi>Ceſar</hi>'s Commentaries, with Sculpt. by <hi>Edmunds</hi> 1677</item>
+               <item>64 Travels of Monſ. <hi>Thevenot</hi> into <hi>Perſia</hi> and <hi>Eaſt-India</hi> 1687</item>
+               <item>65 Stone Henge deſcribed, with the Architecture of the Romans, by <hi>Web</hi> 1665</item>
+               <item>66 B. <hi>Wilkins</hi> Eſſay for an Univerſal Character, compl. 1668</item>
+               <item>67 A Treatiſe of Juſtification, againſt Card. <hi>Bellarmin,</hi> by B. <hi>Downam</hi>
+               </item>
+               <item>68 Dr. <hi>Jones</hi>'s Commentary on <hi>Philemon</hi> and the <hi>Hebrews</hi>
+               </item>
+               <item>69 <hi>Lex Mercatoria,</hi> or, Laws of Merchandize, by <hi>G. Malines</hi> 1686</item>
+               <item>70 Dr. <hi>Goad,</hi> Diſcourſe of Celeſtial Bodies, their Nature, <hi>&amp;c.</hi> 1686</item>
+               <item>71 Works of Dr. <hi>Tho. Jackſon,</hi> in 2 Vol. 1653</item>
+               <item>72 A Guide to the Practical Phyſician, by <hi>Bonet</hi> Engliſhed 1686</item>
+               <item>73 <hi>P. Baine</hi> Commentary on the <hi>Epheſians</hi>
+               </item>
+               <item>74 The beſt Religion, or a Body of Divinity, by B. <hi>Williams</hi>
+               </item>
+               <item>75 The Life of the D. of <hi>Newcaſtle,</hi> by his Dutcheſs</item>
+               <item>76 Sir <hi>J. Melvills</hi> Memoirs of <hi>Engl.</hi> and <hi>Scotland</hi>
+               </item>
+               <item>77 <hi>Ruſhworths</hi> Hiſtorical Collections 1682</item>
+               <item>78 Hiſtory of <hi>Ethiopia;</hi> with Maps and Figures 1684</item>
+               <item>79 Church hiſt, of <hi>Great Britain,</hi> with the Lives of the Saints, by <hi>S. Creſſy</hi> 1668</item>
+               <item>80 A Rational Account of the Proteſtant Religion, by B. <hi>Stillingfleet</hi>
+               </item>
+               <item>81 A Treatiſe of Algebra, Hiſtorical and Political, by <hi>Dr. Wallis</hi> 1685</item>
+               <item>82 The Life and Reign of King <hi>James</hi> I. by <hi>Ar. Wilſon</hi> 1653</item>
+               <item>83 <hi>Dr. Willet,</hi> Six fold Commentary on <hi>Daniel</hi>
+               </item>
+               <item>84 Memoirs of Sieur <hi>De Pantis,</hi> who ſerv'd in the Arm. und. <hi>Heur.</hi> 4. <hi>Lew.</hi> 13, 14. <hi>Lon.</hi> 1694</item>
+               <item>85 <hi>N. Byfield,</hi> Expoſition on the <hi>Coloſſians,</hi> in ſeveral Sermons.</item>
+               <item>86 Comment on the Bible. A Latin Manuſcript</item>
+            </list>
+            <div type="collection">
+               <list>
+                  <head>Latin <hi>and</hi> Engliſh, <hi>in</hi> Quarto.</head>
+                  <item>1 <hi>DE Origine Moribus &amp; Rebus Geſti Scotorum, à J. Leſlaeo Rom.</hi> 1675</item>
+                  <item>2 <hi>D. Alteſerrae Notae in Anaſtaſium de Vit. Rom. P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>tificum Par.</hi> 1680</item>
+                  <item>3 <hi>Piſcator in Nov. Teſtament. in</hi> 2 <hi>Vol. Harb.</hi>
+                  </item>
+                  <item>4 <hi>Crellii Ethica</hi>
+                  </item>
+                  <item>5 <hi>Argalus &amp; Parthenia,</hi> by <hi>Quarles,</hi> with Cuts</item>
+                  <item>6 Experienc'd Farrier. laſt Edition</item>
+                  <item>7 Morning Exerciſe againſt Popery</item>
+                  <item>8 <hi>Guil. Beveridge Codex Canonum</hi>
+                  </item>
+                  <item>9 <hi>Scharpius Symphonia Prophetarum &amp; Apoſtolorum</hi>
+                  </item>
+                  <item>10 <hi>Horae Hebraicae &amp; Talmud. in Evangel. S. Math. à J. Lightf<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t</hi>
+                  </item>
+                  <item>11 <hi>Warren,</hi> Jews Sabbath antiquated</item>
+                  <item>12 <hi>J. Arrowſmith, Tactica Sacra</hi>
+                  </item>
+                  <item>13 <hi>Weemſe,</hi> Explication of the Judicial Law</item>
+                  <item>14 <hi>Baxters</hi> Saints Reſt. Tenth Edition</item>
+                  <item>15 <hi>Onomaſticon Zoi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> plerorumque Animalium, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>is f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi> by <hi>G. Charlun</hi>
+                  </item>
+                  <pb n="4" facs="tcp:30053:3"/>
+                  <item>16 The Pope's Bull anſwered by the Biſhop of <hi>Lincoln</hi>
+                  </item>
+                  <item>17 <hi>Tho. Alesbury de Eterno Divini Beneplaciti</hi>
+                  </item>
+                  <item>18 <hi>Vicar</hi>'s Hiſtory of the Wars between King and Parliament</item>
+                  <item>19 Dr. <hi>Durel</hi>'s Government of the Reformed Churches</item>
+                  <item>20 <hi>J. Goad Aſtro-Meteorologia</hi>
+                  </item>
+                  <item>21 <hi>Clarendon</hi> againſt <hi>Hobbs</hi> Leviathan</item>
+                  <item>22 <hi>Ch. Noldii Concordantiae Particularum Ebraeo Chaldicarum</hi> 1679</item>
+                  <item>23 Mr. <hi>Claud</hi>'s Hiſtory of the Reformation 1683</item>
+                  <item>24 <hi>Jackſon</hi> of the Divine Attributes</item>
+                  <item>25 <hi>Corn. Taciti Opera omnia, cum Not. Lipſi Plant.</hi>
+                  </item>
+                  <item>26 <hi>Diog. Laerti de Vitis Philoſophorum, Gr. Lat. cum Not. Cauſabo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </item>
+               </list>
+            </div>
+            <div type="collection">
+               <list>
+                  <head>Engliſh <hi>and</hi> Latin Books, <hi>in</hi> Octavo.</head>
+                  <item>1 <hi>SAlmon</hi>'s Practical Obſervations</item>
+                  <item>2 <hi>Moad</hi> of Early Obedience</item>
+                  <item>3 <hi>Dod<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l</hi>'s One Altar</item>
+                  <item>4 Engliſh and Dutch Grammer</item>
+                  <item>5 Apothegms of <hi>Eraſmus,</hi> &amp;c.</item>
+                  <item>6 Sir <hi>Tob. Matthews</hi>'s Letters</item>
+                  <item>7 <hi>Faeto</hi>'s Eng. and French Grammer</item>
+                  <item>8 <hi>Bartholinus Anatomia</hi> 1666</item>
+                  <item>9 Hiſtory of 12 infamous Impoſtors</item>
+                  <item>10 <hi>Web</hi>'s Primitive Language of <hi>China</hi>
+                  </item>
+                  <item>11 Biſhop <hi>Patrick</hi>'s Jewiſh Hypocriſy</item>
+                  <item>12 <hi>Pettus</hi>'s Hiſtory of Parliaments</item>
+                  <item>13 <hi>Petty</hi>'s Viſions of Goverment</item>
+                  <item>14 <hi>Barclaii Argenit Cont.</hi> 1678</item>
+                  <item>15 Duty of Man in French</item>
+                  <item>16 <hi>James</hi>'s Corruption of the Fathers</item>
+                  <item>17 Dr. <hi>Pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> of Prayer</item>
+                  <item>18 Hiſtory of <hi>the J<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi> of <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>19 Epitome of Eccleſiaſtical hiſtory</item>
+                  <item>20 <hi>Hobb</hi>'s Homers Iliads</item>
+                  <item>21 Illuſtrions Lovers, a Novel</item>
+                  <item>22 Hiſtory of the <hi>Turks</hi> to the Year 1680</item>
+                  <item>23 Dr. <hi>Towerſon</hi> on the Sacrament</item>
+                  <item>24 Epitome of Dr. <hi>Fuller</hi>'s Worthies</item>
+                  <item>25 <hi>Tate</hi>'s Poems, laſt Edition</item>
+                  <item>26 <hi>Fleetwood Inſcriptiones Antique</hi>
+                  </item>
+                  <item>27 Hiſtory of <hi>Geneſis</hi> with Sc<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </item>
+                  <item>28 Dr. <hi>Newl<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s</hi>'s Geography, <hi>&amp;c.</hi>
+                  </item>
+                  <item>29 <hi>Boyle</hi>'s Scraphick Love</item>
+                  <item>30 — Sceptical Chymiſt</item>
+                  <item>31 — of ſpecifical Medicines</item>
+                  <item>32 — Flame and Air</item>
+                  <item>33 — Experiments, No<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, <hi>&amp;c.</hi>
+                  </item>
+                  <item>34 — <hi>Experiments Obſervationes</hi>
+                  </item>
+                  <item>35 — Experimental <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Cold</item>
+                  <item>36 <hi>Walſh</hi>'s State of <hi>Ireland</hi>
+                  </item>
+                  <item>37 <hi>Smith</hi>'s Account of the Greek Church</item>
+                  <item>38 Lord <hi>Bacon</hi>'s Genuine Remains</item>
+                  <item>39 <hi>Lauwrence</hi>'s Preſent Intereſt of <hi>Ireland</hi>
+                  </item>
+                  <item>40 3d. and 4th. Part of the State of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </item>
+                  <item>41 <hi>Puller</hi>'s Moderation of the Ch. of <hi>Eng.</hi>
+                  </item>
+                  <item>42 <hi>Cotton</hi>'s Choice Pieces of Antiquity</item>
+                  <item>43 <hi>Crow Scriptores in S. Scripturam</hi>
+                  </item>
+                  <item>44 Biſhop <hi>Patrick</hi>'s Divine Arithmetick</item>
+                  <item>45 <hi>Pittis</hi>'s Tryal of Spirits</item>
+                  <item>46 <hi>J. Calvini Inſtitution. R. Chriſtiana</hi>
+                  </item>
+                  <item>47 Scotch Hudib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſs 1692</item>
+                  <item>48 <hi>Hobb</hi>'s Wonders of the Peak</item>
+                  <item>49 Deſcription of the Roads in <hi>England</hi>
+                  </item>
+                  <item>50 <hi>Kendal</hi>'s Tables for Meaſur. Time</item>
+                  <item>51 Life of Biſh. <hi>Sand.</hi> with Caſes of Conſci.</item>
+                  <item>52 <hi>Wett<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>b.</hi> Offices in the worſhip of God</item>
+                  <item>53 <hi>Galthruſis Mathematica, cum Figuris</hi>
+                  </item>
+                  <item>54 Mrs. <hi>Behn Or<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>,</hi> or Happy Slave</item>
+                  <item>55 <hi>Munering</hi>'s Preſervation of Life</item>
+                  <item>56 <hi>Poole</hi>'s Nullity of Roman Faith</item>
+                  <item>57 Biſhop <hi>Wil<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>s</hi>'s Mathemat. Magick</item>
+                  <item>58 <hi>W<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ſry</hi> of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </item>
+                  <item>59 Life and Death of Biſhop <hi>Uſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>60 <hi>Roſs Miſtagogus Poeticus</hi>
+                  </item>
+                  <item>61 <hi>Lipſins</hi> of War and Peace</item>
+                  <item>62 <hi>Ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ering</hi> of the Scurvy</item>
+                  <item>63 Dr. <hi>Everard</hi>'s Works</item>
+                  <item>64 <hi>Read</hi>'s Pract. Chyrurgery</item>
+                  <item>65 Preſent State of <hi>Holland</hi>
+                  </item>
+                  <item>66 <hi>No<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>'s</hi> Introd to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 7 Lib. Scie<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </item>
+                  <item>67 <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Eccleſ.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 8 Ep<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </item>
+                  <item>68 The Works of Sir <hi>George Wharton</hi>
+                  </item>
+                  <item>69 Earl of <hi>Carliſle</hi> 3 Em<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſies to <hi>Muſcovy</hi>
+                  </item>
+                  <item>70 <hi>Pickering</hi>'s <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arrow of the Ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>emat.</item>
+                  <item>71 Mor. <hi>Pr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>.</hi> of the Jeſuits by Dr. of <hi>S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>b<g ref="char:punc">▪</g>
+                     </hi>
+                  </item>
+                  <item>72 <hi>Batter</hi>'s Pious man's Family Book</item>
+                  <item>73 <hi>Lovell</hi>'s Hiſtory of Ani<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ls &amp; Miner.</item>
+                  <item>74 <hi>Burner</hi>'s Life of Biſhop <hi>Bodell</hi>
+                  </item>
+                  <item>75 Mr. <hi>Varillis</hi>'s Pattern for Princes</item>
+                  <item>76 <hi>S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>derſon de Obliga. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>cientiae</hi>
+                  </item>
+                  <item>77 <hi>Macken.</hi> againſt <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>. Dal<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi> &amp;c.</item>
+                  <item>78 Mr. <hi>Wall.</hi> Poem of divine Love paraph.</item>
+                  <item>79 Card <hi>P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>oicini</hi> of the Court of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </item>
+                  <item>80 A new deſcription of the City of <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30053:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
